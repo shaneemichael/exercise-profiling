@@ -9,47 +9,47 @@
 
 1. `test_plan_1.jmx`: `/all-student` endpoint
     - pre-optimize: test plan 1 (GUI)
-    ![pre_profiling_test_plan_1](test_results\pre-optimize-test-1.jpg)
+    ![pre_profiling_test_plan_1](test_results/pre-optimize-test-1.jpg)
 
     - pre-optimize: test plan 1 (Log File)
-    ![pre_profiling_test_plan_1_jtl](test_results\pre-optimize-test-1-jtl.jpg)
+    ![pre_profiling_test_plan_1_jtl](test_results/post-optimize-test-1-jtl.jpg)
 
 2. `test_plan_2.jmx`: `/all-student-name` endpoint
     - pre-optimize: test plan 2 (GUI)
-    ![pre_profiling_test_plan_2](test_results\pre-optimize-test-2.jpg)
+    ![pre_profiling_test_plan_2](test_results/pre-optimize-test-2.jpg)
 
     - pre-optimize: test plan 2 (Log File)
-    ![pre_profiling_test_plan_2_jtl](test_results\pre-optimize-test-2-jtl.jpg)
+    ![pre_profiling_test_plan_2_jtl](test_results/pre-optimize-test-2-jtl.jpg)
 
 3. `test_plan_3.jmx`: `/highest-gpa` endpoint
     - pre-optimize: test plan 3 (GUI)
-    ![pre_profiling_test_plan_3](test_results\pre-optimize-test-3.jpg)
+    ![pre_profiling_test_plan_3](test_results/pre-optimize-test-3.jpg)
 
     - pre-optimize: test plan 3 (Log File)
-    ![pre_profiling_test_plan_3_jtl](test_results\pre-optimize-test-3-jtl.jpg)
+    ![pre_profiling_test_plan_3_jtl](test_results/pre-optimize-test-3-jtl.jpg)
 
 ## Post-Profiling and Optimization Tests ##
 
 1. `test_plan_1.jmx`: `/all-student` endpoint
     - post-optimize: test plan 1 (GUI)
-    ![post_profiling_test_plan_1](test_results\post-optimize-test-1.jpg)
+    ![post_profiling_test_plan_1](test_results/post-optimize-test-1.jpg)
 
     - post-optimize: test plan 1 (Log File)
-    ![post_profiling_test_plan_1_jtl](test_results\post-optimize-test-1-jtl.jpg)
+    ![post_profiling_test_plan_1_jtl](test_results/post-optimize-test-1-jtl.jpg)
 
 2. `test_plan_2.jmx`: `/all-student-name` endpoint
     - post-optimize: test plan 2 (GUI)
-    ![post_profiling_test_plan_2](test_results\post-optimize-test-2.jpg)
+    ![post_profiling_test_plan_2](test_results/post-optimize-test-2.jpg)
 
     - post-optimize: test plan 2 (Log File)
-    ![post_profiling_test_plan_2_jtl](test_results\post-optimize-test-2-jtl.jpg)
+    ![post_profiling_test_plan_2_jtl](test_results/post-optimize-test-2-jtl.jpg)
 
 3. `test_plan_3.jmx`: `/highest-gpa` endpoint
     - post-optimize: test plan 3 (GUI)
-    ![post_profiling_test_plan_3](test_results\post-optimize-test-3.jpg)
+    ![post_profiling_test_plan_3](test_results/post-optimize-test-3.jpg)
 
     - post-optimize: test plan 3 (Log File)
-    ![post_profiling_test_plan_3_jtl](test_results\post-optimize-test-3-jtl.jpg)
+    ![post_profiling_test_plan_3_jtl](test_results/post-optimize-test-3-jtl.jpg)
 
 ## Summary ##
 
